@@ -1,0 +1,93 @@
+/* +JMJ */
+body{   
+    margin: 0;
+    text-align: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 2.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 550;
+    color: cadetblue;
+}
+
+h2{
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 550;
+    color: cadetblue;
+}
+
+p{
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 550;
+    color: cadetblue;
+}
+
+#main{
+    width: 100%;
+    height: 41.8rem;
+    padding-top: 300px;
+    background-color: beige;
+}
+
+
+
+.input{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: cadetblue;
+    border-color: cadetblue;
+}
+
+.input:hover{
+    background-color: #000;
+}
+
+.input::placeholder{
+    color: cadetblue;
+}
+
+.btn{
+    font-family: monospace;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 0%;
+    color: cadetblue;
+    border-color: cadetblue;
+    background-color: #FFF;
+    height: 30px;
+    width: 150px;
+}
+
+.btn:hover{
+    background-color: #000;
+}
+
+.answer{
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 550;
+    color: cadetblue;
+}  
+
+
+
+
+h1.animation1{
+    color: brown;
+}
+
+h1.animation2{
+    color: rgb(87, 139, 9);
+}
+
+h1.animation3{
+    color: orangered;
+}
+
+h1.animation4{
+    color: red;
+}
